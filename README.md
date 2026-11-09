@@ -22,3 +22,6 @@ Static site. `index.html` must stay in the repository root.
 ## Before launch
 - Testimonials and the "recent deliveries" feed were removed because they were sample data. Add real ones back only when they are real.
 - Add titles and categories to the work captions: `<figcaption><b>Work 01</b></figcaption>`.
+
+## Templates
+- The template pack card (4-in-1 Brand Motion Pack) is in `<section id="store">` in `index.html`. To add another pack, copy the `<article class="glass pack">` block and change the title, text and Gumroad link.
