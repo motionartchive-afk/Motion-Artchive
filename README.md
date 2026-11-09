@@ -11,3 +11,5 @@ Static site. `index.html` must stay in the repository root.
 ## Update content
 - Videos: replace files in `assets/video/` (keep the same names).
 - Posters and logo: `assets/img/`.
+
+- Client videos: `assets/video/client/` (client-01.mp4 to client-17.mp4) with posters in `assets/img/client/`.
